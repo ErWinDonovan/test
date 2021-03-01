@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    background-color: rgb(147, 123, 255);
+    color: #464646;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
